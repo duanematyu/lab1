@@ -1,0 +1,17 @@
+h1 {
+		text-align:center;
+		font-size: 40px;
+}
+
+p {
+		font-family: Times, Arial;
+		color:;
+		margin-left: 100px;
+		margin-right: 100px;
+}
+
+body {
+	background-image: url("pier-407252_1920.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
